@@ -1,0 +1,124 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "35e520c29a8885a192015341",
+  "owner": "wangbadani1",
+  "repo": "page-a566b3d8e3392598e98fdbf3",
+  "title": "优云666",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "a566b3d8e3392598e98fdbf3",
+      "a": "优云666",
+      "b": "",
+      "entity": "优云666",
+      "brand": "优云666",
+      "separator": "",
+      "path": "index.html",
+      "hash": "fb175ce1c1fbb2e65f25dac2719ee0237f13048911b6fb61b8817ec45e79ca87",
+      "content": {
+        "keyword1": "优云666",
+        "keyword2": "",
+        "primary_entity": "优云666",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "优云666是面向多端用户的机场与VPN加速服务官网，提供订阅套餐、客户端选择说明、节点使用场景与导入教程，方便用户完成官方下载与网络加速配置。",
+          "AI_DESCRIPTION": "优云666是面向多端用户的机场与VPN加速服务官网，提供订阅套餐、客户端选择说明、节点使用场景与导入教程，方便用户完成官方下载与网络加速配置。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "<style>*{box-sizing:border-box;margin:0;padding:0}html{font-size:16px;-webkit-text-size-adjust:100%}body{font-family:-apple-system,BlinkMacSystemFont,\"Segoe UI\",Roboto,\"PingFang SC\",\"Hiragino Sans GB\",\"Microsoft YaHei\",sans-serif;background:#07111c;color:#e8eef4;line-height:1.7}a{color:#5eead4;text-decoration:none}header{background:#0a1c2e;border-bottom:1px solid #155e75;padding:1rem 1.25rem}header .inner,main .wrap,footer .inner{max-width:1100px;margin:0 auto}.brand{color:#22d3ee;font-weight:700;font-size:1.25rem}nav{display:flex;flex-wrap:wrap;gap:.7rem 1rem;margin-top:.75rem}nav a{color:#cbd5e1;font-size:.95rem}.wrap{padding:1.25rem 1.15rem}.grid{display:grid;gap:1.2rem}.card{background:#0d2136;border:1px solid #164e63;border-radius:10px;padding:1.15rem}h1{font-size:1.7rem;color:#67e8f9;line-height:1.35;margin:.4rem 0 1rem}h2{font-size:1.32rem;color:#5eead4;margin:2rem 0 .85rem;padding-bottom:.35rem;border-bottom:1px solid #155e75}h3{font-size:1.06rem;color:#a5f3fc;margin:1rem 0 .45rem}p,li{margin-bottom:.72rem;color:#d6dee8}ul,ol{padding-left:1.2rem}.lead{font-size:1.05rem;color:#e2e8f0}.price{font-size:1.38rem;color:#f0fdfa;font-weight:700}.muted{color:#94a3b8;font-size:.9rem}.tag{display:inline-block;background:#115e59;color:#ccfbf1;padding:.12rem .48rem;border-radius:4px;font-size:.78rem;margin:0 .3rem .3rem 0}.featured{border-color:#22d3ee}.ad{background:#082f3b;border:1px dashed #2dd4bf;padding:1rem;margin:1.2rem 0;border-radius:8px}details{background:#0d2136;border:1px solid #164e63;border-radius:8px;padding:.75rem 1rem;margin-bottom:.65rem}summary{color:#ccfbf1;font-weight:600}aside h2{margin-top:0}footer{background:#061018;border-top:1px solid #155e75;padding:1.5rem 1.25rem;margin-top:2rem;font-size:.9rem;color:#94a3b8}footer ul{list-style:none;padding:0;display:flex;flex-wrap:wrap;gap:.45rem 1rem}.links a{color:#94a3b8}@media (min-width:840px){.cols{grid-template-columns:1.45fr .85fr}.plans{grid-template-columns:repeat(3,1fr)}h1{font-size:2rem}}</style><header><div class=\"inner\"><div class=\"brand\">优云666 官方网站</div><nav><a href=\"#intro\">品牌简介</a><a href=\"#plans\">订阅套餐</a><a href=\"#clients\">客户端下载</a><a href=\"#scenes\">使用场景</a><a href=\"#guide\">操作说明</a><a href=\"#faq\">常见问题</a><a href=\"#sitemap\">网站地图</a></nav></div></header><main id=\"top\"><div class=\"wrap\"><p class=\"muted\">https://youyun666.com/</p><h1>优云666 官方网站 · 机场订阅与客户端下载</h1><p class=\"lead\">优云666 面向个人与团队提供机场订阅与 VPN 网络加速服务。本页说明套餐差异、客户端选择、导入步骤与常见问题，帮助你在官网完成订阅配置并稳定使用梯子加速。</p><div class=\"ad\" id=\"ads\">公告：请通过优云666 官方网站获取订阅与客户端下载说明，核对套餐流量与设备台数后再导入，避免使用来源不明的配置文件。</div><div class=\"grid cols\"><section><h2 id=\"intro\">优云666 品牌简介</h2><p>优云666 是以机场订阅为核心的网络加速服务。用户开通套餐后获得订阅地址，可在 Clash、Shadowrocket、sing-box、v2rayN 等客户端中导入，按需切换节点完成跨境访问、流媒体播放与游戏加速。</p><p>服务强调线路可读、套餐边界清晰：流量按月计算，同时在线设备有上限，流媒体解锁与 IPLC 能力按套餐分层。旗舰版面向重度影音与游戏用户，团队版面向多终端协作。优云666 不 bundling 无关软件，官方下载以各系统主流客户端为准，本站提供选择对照与操作说明。</p><h3>服务边界</h3><ul><li>提供订阅与节点接入，不托管用户本地设备。</li><li>基础线路与专线分层，避免把所有套餐写成同一体验。</li><li>客户端由各平台官方渠道安装，优云666 提供订阅兼容说明。</li></ul></section><aside><h2>快速对照</h2><div class=\"card\"><p>若你需要稳定看剧与游戏加速，优先看旗舰版的 IPLC 与全节点流媒体说明；若只是轻度跨境办公，基础版的 100GB 与 3 设备通常足够。团队协作、共享路由再考虑团队版。</p><p class=\"muted\">本页重点帮助你完成客户端选择，而不是堆砌无法核验的宣传语。</p><p><a href=\"#clients\">前往客户端选择</a> · <a href=\"#plans\">查看套餐</a></p></div></aside></div><h2 id=\"plans\">订阅套餐</h2><p>以下为优云666 固定套餐。价格按月展示，年付可降低月均成本。选择时同时核对流量、设备数、流媒体与线路类型。</p><div class=\"grid plans\"><article class=\"card\"><h3>基础版</h3><p class=\"price\">¥15/月</p><p class=\"muted\">按年付仅需 ¥150/年</p><ul><li>每月 100GB 极速流量</li><li>支持 3 台设备同时在线</li><li>解锁基础流媒体</li><li>普通线路节点池</li></ul></article><article class=\"card featured\"><h3>旗舰版 <span class=\"tag\">推荐</span></h3><p class=\"price\">¥35/月</p><p class=\"muted\">按年付仅需 ¥350/年</p><ul><li>每月 300GB 极速流量</li><li>支持 5 台设备同时在线</li><li>全节点原生流媒体解锁</li><li>IPLC 专线游戏加速优化</li><li>7x24 优先工单支持</li></ul></article><article class=\"card\"><h3>团队版</h3><p class=\"price\">¥85/月</p><p class=\"muted\">按年付仅需 ¥850/年</p><ul><li>每月 1000GB 极速流量</li><li>支持 20 台设备同时在线</li><li>VIP 专属高带宽节点</li><li>支持企业定制路由</li><li>专属客户经理服务</li></ul></article></div><h2 id=\"clients\">客户端选择与官网下载指引</h2><p>优云666 以订阅为核心，客户端按系统选择。先确定设备，再决定协议与界面复杂度。同一订阅可在多台已授权设备使用，但不要超过套餐同时在线上限。</p><div class=\"grid cols\"><section class=\"card\"><h3>手机端</h3><p><span class=\"tag\">iOS</span> Shadowrocket、Stash、Quantumult X 适合需要规则分流的用户。系统较新时也可使用支持订阅的通用客户端。</p><p><span class=\"tag\">Android</span> Clash Meta 系、sing-box 图形客户端适合日常加速；需要简洁开关时可选用支持一键连接的 VPN 客户端。</p><h3>电脑端</h3><p><span class=\"tag\">Windows</span> v2rayN、Clash Verge 适合导入机场订阅并管理节点延迟。</p><p><span class=\"tag\">macOS</span> Clash Verge、Surge、Stash 便于菜单栏切换与规则模式。</p><p><span class=\"tag\">Linux</span> Clash Meta、sing-box 命令行或托盘版可覆盖长期在线的开发环境。</p></section><section class=\"card\"><h3>如何挑选</h3><ol><li>只要开关代理、少改规则：选图形界面完整、支持订阅自动更新的客户端。</li><li>需要流媒体分流、广告拦截或策略组：选 Clash/Stash/Surge 一类。</li><li>游戏加速优先延迟与丢包：旗舰版 IPLC 节点配合支持 UDP 的客户端。</li><li>公司多设备统一策略：团队版配合可导入同一订阅、可自定义路由的客户端。</li></ol><p>官方下载请前往各客户端开发者站点或系统应用商店。优云666 官网提供兼容说明，不捆绑安装包，避免来源混淆。</p><p><a href=\"#guide\">查看导入步骤</a></p></section></div><h2 id=\"scenes\">使用场景</h2><div class=\"grid cols\"><section><h3>跨境办公与资料访问</h3><p>远程会议、云文档与代码仓库在跨境链路下容易抖动。优云666 普通节点可满足网页与接口访问；对会议音视频更敏感时，使用延迟更低的专线并固定一个区域节点，减少策略组来回切换。</p><h3>流媒体与内容浏览</h3><p>基础版覆盖常见内容站点的基础解锁；需要多区原生片源时使用旗舰版全节点流媒体能力，并在客户端为视频域名单独分流，避免全局模式占用过多流量。</p></section><section><h3>游戏加速</h3><p>对延迟敏感的对战与更新下载，优先旗舰版 IPLC。客户端开启 UDP 转发，关闭不必要的规则探测，连接后先做一次延迟测试再进入对局。</p><h3>差旅与多设备</h3><p>出差时手机与笔记本同时在线，注意基础版 3 台、旗舰版 5 台上限。团队共用出口时用团队版设备额度，并由管理员统一订阅与路由策略。</p></section></div><h2 id=\"guide\">操作说明</h2><h3>一、开通订阅</h3><p>在优云666 选择基础版、旗舰版或团队版，确认月流量与设备数。完成后进入用户中心复制订阅链接。链接仅用于客户端导入，不要公开发布。</p><h3>二、安装客户端</h3><p>按上一节完成客户端选择与官方下载。安装后允许 VPN 或代理权限，关闭系统自带的其他冲突代理，避免双通道抢路由。</p><h3>三、导入机场订阅</h3><ol><li>打开客户端的订阅或配置页面。</li><li>粘贴优云666 订阅地址，命名为「优云666」以便识别。</li><li>更新节点列表，确认出现多个区域。</li><li>选择规则模式（推荐）而非无脑全局，减少无关流量消耗。</li></ol><h3>四、连接与验证</h3><p>挑选延迟较低的节点连接。用浏览器访问需要加速的站点，观察是否走代理。流媒体失败时更换同区其他节点，而不是反复开关软件。游戏请单独测试 UDP 是否畅通。</p><h3>五、日常维护</h3><p>订阅建议开启自动更新。流量将尽时降级高码率视频或升级套餐。设备更换先在旧设备断开，避免占用同时在线名额。配置丢失时重新导入同一订阅即可，不必重装系统。</p><h2 id=\"faq\">常见问题</h2><details><summary>优云666 是什么？和普通 VPN 有何不同？</summary><p>优云666 是机场订阅服务：你获得的是可更新的节点列表，而不是单一固定入口。相比只能开关的 VPN 应用，机场可按地区、流媒体、游戏线路自行选择，并在 Clash 等客户端里做分流。本站是优云666 官方网站说明页，用于套餐、客户端下载指引与导入教程。</p></details><details><summary>客户端应该从哪里下载才算官方？</summary><p>客户端本身来自各项目或应用商店的官方渠道，优云666 不打包第三方安装器。iOS 走 App Store，Android 走 GitHub 发布页或客户端官网，Windows/macOS 同样认开发者站点。下载后只导入优云666 订阅，不要叠加来路不明的规则仓库。</p></details><details><summary>订阅链接导入失败怎么办？</summary><p>先检查链接是否完整复制，有无多余空格。确认客户端支持该订阅格式（常见为 Clash 或通用订阅）。仍失败时更换网络后再更新，或在客户端改用支持的用户代理。不要把订阅粘贴到浏览器地址栏当作网页打开。</p></details><details><summary>基础版、旗舰版、团队版怎么选？</summary><p>轻度网页与 3 台设备选基础版。需要更高流量、5 台设备、全节点流媒体和 IPLC 游戏优化选旗舰版。公司或家庭大量终端、需要定制路由与专属对接选团队版。年付适合确定会长用的用户，可降低月均费用。</p></details><details><summary>节点能打开网页但视频卡顿或游戏掉线？</summary><p>网页通畅只说明 TCP 可用。视频需要更稳定的带宽与对应解锁节点，游戏还依赖 UDP。切换到旗舰版标注的流媒体或 IPLC 节点，关闭占用上行的其他下载，并在客户端避免频繁自动测速。若多设备抢占同一出口，减少同时在线数。</p></details><details><summary>流量用完或设备超限会怎样？</summary><p>流量用尽后加速会停用或降速，需等待结算周期或升级套餐。超过同时在线台数时，新设备可能无法握手。先在已登录设备断开，再连接新终端。团队版把额度分给固定成员，避免临时分享导致挤占。</p></details><h2 id=\"sitemap\">网站地图</h2><ul class=\"links\"><li><a href=\"#top\">首页</a></li><li><a href=\"#intro\">品牌简介</a></li><li><a href=\"#plans\">订阅套餐</a></li><li><a href=\"#clients\">客户端下载</a></li><li><a href=\"#scenes\">使用场景</a></li><li><a href=\"#guide\">操作说明</a></li><li><a href=\"#faq\">常见问题</a></li><li><a href=\"#ads\">公告</a></li><li><a href=\"#friends\">友情链接</a></li></ul></div><section><h2>套餐</h2>{{PLANS_HTML}}</section><section><h2>客户端</h2>{{CLIENTS_HTML}}</section></main><footer><div class=\"inner\"><p>优云666 官方网站 · 机场订阅与 VPN 加速器说明</p><p id=\"friends\">友情链接：<a href=\"#guide\">导入教程</a> · <a href=\"#clients\">客户端选择</a> · <a href=\"#plans\">套餐说明</a> · <a href=\"#faq\">FAQ</a> · <a href=\"#sitemap\">站点地图</a></p><p>页面仅提供优云666 使用与下载指引，客户端请从对应官方渠道获取。保留品牌原意，不以堆砌关键词替代说明。</p></div></footer>",
+          "hash": "b2f9e8e8205ad08899caabd95950579a17ecfb35c060da6110dc0646d3fbd33f",
+          "seo": {
+            "title": "优云666官网：机场订阅、VPN加速器与客户端下载指南",
+            "keywords": "优云666,优云666机场,优云666 VPN,优云666官网,优云666下载,机场订阅,梯子网络加速,加速器,客户端下载",
+            "description": "优云666是面向多端用户的机场与VPN加速服务官网，提供订阅套餐、客户端选择说明、节点使用场景与导入教程，方便用户完成官方下载与网络加速配置。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "rntvzss.cn",
+    "host": "p-bb6398cd5e.rntvzss.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [
+    {
+      "host": "rntvzss.cn",
+      "url": "https://rntvzss.cn/",
+      "label": "STC",
+      "apex": "rntvzss.cn",
+      "kind": null,
+      "identity": "hudegr/page-66beb83cb585a1a448946a13"
+    },
+    {
+      "host": "3cuan.cn",
+      "url": "https://3cuan.cn/",
+      "label": "优云666",
+      "apex": "3cuan.cn",
+      "kind": null,
+      "identity": "wbwftxwku/page-81b3976a3b34d43f6435a36a"
+    },
+    {
+      "host": "bosoncovt.cn",
+      "url": "https://bosoncovt.cn/",
+      "label": "优云666",
+      "apex": "bosoncovt.cn",
+      "kind": null,
+      "identity": "wegyvj/page-adca4d0f4ec75bc527798e42"
+    }
+  ],
+  "file_hashes": {
+    "index.html": "98fc3d57e43bfe5f54ed5876e43064cfa9be5192a89f16e11fc84ec27ff6f0e0",
+    "sitemap.xml": "500d191eb85efa8fa386aa992cd223259330aed27eb041cba200853f3f940737",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "c9236ad6d42fe89b36bef598deb29a6ea71c58162b2473d36aa20dd0c61270b7",
+    "robots.txt": "92a0db9049cf4a5b41ac36ab665f646b866e0042d5d3741391d7bafb28c3eba8",
+    "069ff2a7c511059b8508e3c54c2b34fe.txt": "0fa1bf3c3325ec83acc6d58acebb64db8b800d1f094535397f924141da78c80f"
+  },
+  "revision": "066492348b27f76cc8468f0846ea8eb283808294e24f09c5383accf1bf3935aa"
+}
